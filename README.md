@@ -14,5 +14,12 @@ Oscar Pictures is an iOS Application that helps you obtain movie information and
 
 [![Watch the video](https://img.youtube.com/vi/nuWe2q6g5Jc/0.jpg)](https://youtu.be/nuWe2q6g5Jc)
 
+## Implementation:
+* Data Persistence using CoreData
+* Embed browser using WebKit and WKWebView
+* Error Consideration: handle API extract failure, empty search result, empty list, etc.
+* Refactor to separate data, views, and controllers
+* Customized API implementation
+
 ## Usage
 Download the source file and run in Xcode Simulator.
